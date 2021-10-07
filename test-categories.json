@@ -16,6 +16,13 @@
                 "options": {
                 "foreground": true, "destructive": true
                 }
+            },
+            {
+                "id": "Settings",
+                "title": "Notification Settings",
+                "options": {
+                "foreground": true, "destructive": true
+                }
             }
         ]
     }
