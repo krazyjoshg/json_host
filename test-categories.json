@@ -5,16 +5,16 @@
         [
             {
                 "id": "open", 
-                "title": "Trending",
-                "icon": "chart.line.uptrend.xyaxis",
+                "title": "KCL",
+                "icon": "mustache",
                 "options": {
                 "foreground": true
                 }
             },
             {
                 "id": "Preferences",
-                "title": "Alert Options",
-                "icon": "bell.badge",
+                "title": "RULES",
+                "icon": "brain",
                 "options": {
                 "foreground": true, "destructive": false
                 }
@@ -22,7 +22,7 @@
             {
                 "id": "Settings",
                 "title": "Notification Settings",
-                "icon": "alarm",
+                "icon": "eyes",
                 "options": {
                 "foreground": true, "destructive": false
                 }
