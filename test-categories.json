@@ -5,7 +5,8 @@
         [
             {
                 "id": "open", 
-                "title": "Trending", 
+                "title": "Trending",
+                "icon": "chart.line.uptrend.xyaxis",
                 "options": {
                 "foreground": true
                 }
@@ -13,6 +14,7 @@
             {
                 "id": "Preferences",
                 "title": "Alert Preferences",
+                "icon": "bell.badge",
                 "options": {
                 "foreground": true, "destructive": true
                 }
@@ -20,6 +22,7 @@
             {
                 "id": "Settings",
                 "title": "Notification Settings",
+                "icon": "alarm",
                 "options": {
                 "foreground": true, "destructive": true
                 }
