@@ -1,0 +1,22 @@
+[
+    {
+        "id": "userAction",
+        "actions": 
+        [
+            {
+                "id": "open", 
+                "title": "Trending", 
+                "options": {
+                "foreground": true
+                }
+            },
+            {
+                "id": "Preferences",
+                "title": "Alert Preferences",
+                "options": {
+                "foreground": true, "destructive": true
+                }
+            }
+        ]
+    }
+]
