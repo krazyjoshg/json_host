@@ -13,10 +13,10 @@
             },
             {
                 "id": "Preferences",
-                "title": "Alert Preferences",
+                "title": "Alert Options",
                 "icon": "bell.badge",
                 "options": {
-                "foreground": true, "destructive": true
+                "foreground": true, "destructive": false
                 }
             },
             {
@@ -24,7 +24,7 @@
                 "title": "Notification Settings",
                 "icon": "alarm",
                 "options": {
-                "foreground": true, "destructive": true
+                "foreground": true, "destructive": false
                 }
             }
         ]
