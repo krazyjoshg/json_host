@@ -1,5 +1,5 @@
 [
-    "https://thekrazycouponlady.com/app/preferences/see-alerts",
-    "https://thekrazycouponlady.com/app/preferences/notifications",
-    "https://thekrazycouponlady.com/tips/couponing/kcl-top-deals"    
+    {"label": "preferences/see-alerts", "value": "https://thekrazycouponlady.com/app/preferences/see-alerts"},
+    {"label": "preferences/notifications", "value": "https://thekrazycouponlady.com/app/preferences/notifications"},
+    {"label": "tips/couponing/kcl-top-deals", "value": "https://thekrazycouponlady.com/tips/couponing/kcl-top-deals"}    
 ]
